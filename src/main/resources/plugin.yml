@@ -1,0 +1,6 @@
+name: Farming
+version: '1.0'
+main: shwendel.farming.Farming
+api-version: '1.21'
+commands:
+  test:
